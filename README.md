@@ -1,1 +1,1 @@
-### [pc-builder-application-js[(https://pin-builder-applications-js.netlify.app/)
+### [pc-builder-application-js](https://pin-builder-applications-js.netlify.app/)
